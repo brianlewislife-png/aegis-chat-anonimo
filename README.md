@@ -55,10 +55,6 @@ Teste o sistema:
 
 https://aegis-chat-qmrj.onrender.com/
 
-## Screenshots
-
-Imagens da interface e funcionalidades do sistema.
-
 ## Objetivo do projeto
 
 O objetivo do AI Chat Anônimo é criar uma plataforma de comunicação com foco em privacidade, controle e organização, demonstrando uma aplicação Full Stack completa com desenvolvimento de interface, backend, autenticação e gerenciamento de usuários.
